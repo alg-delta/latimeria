@@ -1,6 +1,6 @@
 import React from "react";
 import Alert from "react-bootstrap/Alert";
-import Product from "./Product";
+
 import Button from "react-bootstrap/Button";
 
 export default function Cart(props) {
