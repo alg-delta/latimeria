@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/latimeria/static/css/main.e1aed2fa.css",
+    "main.js": "/latimeria/static/js/main.4399b97f.js",
+    "static/js/453.0f4552a2.chunk.js": "/latimeria/static/js/453.0f4552a2.chunk.js",
+    "index.html": "/latimeria/index.html",
+    "main.e1aed2fa.css.map": "/latimeria/static/css/main.e1aed2fa.css.map",
+    "main.4399b97f.js.map": "/latimeria/static/js/main.4399b97f.js.map",
+    "453.0f4552a2.chunk.js.map": "/latimeria/static/js/453.0f4552a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1aed2fa.css",
+    "static/js/main.4399b97f.js"
+  ]
+}
